@@ -2,17 +2,16 @@
 
 
 
-# [Project Name] 🎯
+# DUMBBUY 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: The Ninth Delusion
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Fatima Sana Issahac - SSET
+- Member 2: Ilham Nadhir - SSET
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -31,10 +30,6 @@ For Software:
 - [Libraries used]
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:

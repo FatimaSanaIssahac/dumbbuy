@@ -14,21 +14,26 @@
 - Member 2: Ilham Nadhir - SSET
 
 ### Project Description
-[2-3 lines about what your project does]
+Can I Afford This? is a satirical AI-powered purchase judge for questionable shopping decisions.
+Enter a bank balance, an item, and a justification. The app decides whether the purchase is too useful
+to be accepted or useless enough to deserve a price and affordability breakdown.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are constantly buying sensible things without first checking whether their purchase is sufficiently
+unnecessary. This app solves the completely imaginary crisis of responsible spending.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+An AI anti-financial-advice engine evaluates the item's usefulness and the user's excuse. Sensible items
+are rejected for being too practical. Useless items are priced, scored, and converted into a dramatic
+calculation of how many could be bought before the balance disappears.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: TypeScript, JSX, CSS
+- Frameworks used: Next.js 14, React 18, Tailwind CSS
+- Libraries used: OpenAI SDK, Google Generative AI SDK, Lucide React, canvas-confetti, clsx, tailwind-merge
+- Tools used: Node.js, npm, Vercel-compatible Next.js API routes
 
 
 ### Implementation

@@ -2,19 +2,17 @@
 
 
 
-# [Project Name] 🎯
+# DUMBBY 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: The Ninth Delusion
 
-### Team Name
-[Add team name]
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Fatima Sana Issahac - SSET
+- Member 2: Ilham Nadhir - SSET
+
 
 ### Project Description
 Can I Afford This? is a satirical AI-powered purchase judge for questionable shopping decisions.

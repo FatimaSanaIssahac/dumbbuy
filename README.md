@@ -1,103 +1,105 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+# Can I Afford This?
 
-
-
-# [Project Name] 🎯
-
+<img width="1280" height="640" alt="Can I Afford This project banner" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
 ## Basic Details
-### Team Name: [Name]
 
+### Team Name
+[Add team name]
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Add name] - [Add college]
+- Member 2: [Add name] - [Add college]
+- Member 3: [Add name] - [Add college]
 
 ### Project Description
-[2-3 lines about what your project does]
+Can I Afford This? is a satirical AI-powered purchase judge for questionable shopping decisions.
+Enter a bank balance, an item, and a justification. The app decides whether the purchase is too useful
+to be accepted or useless enough to deserve a price and affordability breakdown.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are constantly buying sensible things without first checking whether their purchase is sufficiently
+unnecessary. This app solves the completely imaginary crisis of responsible spending.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+An AI anti-financial-advice engine evaluates the item's usefulness and the user's excuse. Sensible items
+are rejected for being too practical. Useless items are priced, scored, and converted into a dramatic
+calculation of how many could be bought before the balance disappears.
 
 ## Technical Details
+
 ### Technologies/Components Used
+
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages: TypeScript, JSX, CSS
+- Frameworks: Next.js 14, React 18, Tailwind CSS
+- Libraries: OpenAI SDK, Google Generative AI SDK, Lucide React, canvas-confetti, clsx, tailwind-merge
+- Tools: Node.js, npm, Vercel-compatible Next.js API routes
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+## Implementation
 
-### Implementation
-For Software:
-# Installation
-[commands]
+### Installation
+```bash
+npm install
+```
 
-# Run
-[commands]
+### Run
+```bash
+npm run dev
+```
 
-### Project Documentation
-For Software:
+Open [http://localhost:3000](http://localhost:3000) in a browser.
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+For a production build:
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+```bash
+npm run build
+npm start
+```
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+The app accepts an OpenAI or Gemini API key through the settings dialog. For a server-side default,
+configure `OPENAI_API_KEY` or `GEMINI_API_KEY` in the deployment environment. Do not expose these keys
+with a `NEXT_PUBLIC_` prefix.
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+## Project Documentation
 
-For Hardware:
+### Screenshots
+Add these screenshots before submitting the project documentation:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+- `screenshot-input.png`: The purchase form with balance, currency, item, and reason fields.
+- `screenshot-too-useful.png`: The rejection result for a sensible purchase.
+- `screenshot-useless-enough.png`: The price, uselessness score, and affordability result.
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+### Workflow Diagram
+```mermaid
+flowchart TD
+    A[User enters balance, item, and reason] --> B[POST /api/judge]
+    B --> C[AI usefulness judgement]
+    C -->|Useful| D[Too Useful rejection]
+    C -->|Useless enough| E[Price search]
+    E --> F[Affordability calculation]
+    F --> G[Useless Enough result]
+```
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+This is a software-only project, so hardware schematics and build photos are not applicable.
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+#### Video
+[Add demo video link]
 
-# Additional Demos
-[Add any extra demo materials/links]
+The demo should show entering a purchase, receiving an AI verdict, and viewing the affordability result.
+
+#### Additional Demos
+[Add the deployed Vercel URL or other demo materials]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Name 1]: Product concept, UI, and frontend implementation.
+- [Name 2]: AI judgement, price search, and affordability logic.
+- [Name 3]: Testing, deployment, documentation, and demo production.
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
+Made for TinkerHub Useless Projects.
 
-
-
+![TinkerHub](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Useless Projects](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)

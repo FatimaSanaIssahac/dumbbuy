@@ -1,16 +1,20 @@
 # Can I Afford This?
 
-<img width="1280" height="640" alt="Can I Afford This project banner" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+
+
+# [Project Name] 🎯
+
 
 ## Basic Details
+### Team Name: [Name]
 
 ### Team Name
 [Add team name]
 
 ### Team Members
-- Team Lead: [Add name] - [Add college]
-- Member 2: [Add name] - [Add college]
-- Member 3: [Add name] - [Add college]
+- Team Lead: [Name] - [College]
+- Member 2: [Name] - [College]
+- Member 3: [Name] - [College]
 
 ### Project Description
 Can I Afford This? is a satirical AI-powered purchase judge for questionable shopping decisions.
@@ -29,7 +33,18 @@ calculation of how many could be bought before the balance disappears.
 ## Technical Details
 
 ### Technologies/Components Used
+For Software:
+- [Languages used]
+- [Frameworks used]
+- [Libraries used]
+- [Tools used]
 
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
+
+### Implementation
 For Software:
 - Languages: TypeScript, JSX, CSS
 - Frameworks: Next.js 14, React 18, Tailwind CSS

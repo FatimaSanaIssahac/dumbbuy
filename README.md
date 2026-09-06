@@ -65,7 +65,6 @@ with a `NEXT_PUBLIC_` prefix.
 ## Project Documentation
 
 ### Screenshots
-Add these screenshots before submitting the project documentation:
 
 - <img width="1010" height="893" alt="image" src="https://github.com/user-attachments/assets/837adf47-1ad8-47bd-95e0-4ce4a1001c77" />
 : The purchase form with balance, currency, item, and reason fields.
@@ -90,13 +89,7 @@ flowchart TD
 This is a software-only project, so hardware schematics and build photos are not applicable.
 
 ### Project Demo
-#### Video
-[Add demo video link]
-
-The demo should show entering a purchase, receiving an AI verdict, and viewing the affordability result.
-
-#### Additional Demos
-[Add the deployed Vercel URL or other demo materials]
+https://dumbbuy.vercel.app/
 
 ## Team Contributions
 - Fatima Sana Issahac: AI judgement, price search, and affordability logic.

@@ -2,7 +2,7 @@
 
 
 
-# DUMBBY 🎯
+# DUMBBUY 🎯
 
 
 ## Basic Details
@@ -31,18 +31,6 @@ calculation of how many could be bought before the balance disappears.
 ## Technical Details
 
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
 For Software:
 - Languages: TypeScript, JSX, CSS
 - Frameworks: Next.js 14, React 18, Tailwind CSS
@@ -79,7 +67,9 @@ with a `NEXT_PUBLIC_` prefix.
 ### Screenshots
 Add these screenshots before submitting the project documentation:
 
-- `screenshot-input.png`: The purchase form with balance, currency, item, and reason fields.
+- `<img width="1010" height="885" alt="image" src="https://github.com/user-attachments/assets/e3bf99cb-8f1e-42ac-b5b0-5a1b1ab39759" />
+`: The purchase form with balance, currency, item, and reason fields.
+
 - `screenshot-too-useful.png`: The rejection result for a sensible purchase.
 - `screenshot-useless-enough.png`: The price, uselessness score, and affordability result.
 
@@ -106,9 +96,8 @@ The demo should show entering a purchase, receiving an AI verdict, and viewing t
 [Add the deployed Vercel URL or other demo materials]
 
 ## Team Contributions
-- [Name 1]: Product concept, UI, and frontend implementation.
-- [Name 2]: AI judgement, price search, and affordability logic.
-- [Name 3]: Testing, deployment, documentation, and demo production.
+- Fatima Sana Issahac: AI judgement, price search, and affordability logic.
+- Ilham Nadhir: Testing, deployment, documentation, and demo production.
 
 ---
 

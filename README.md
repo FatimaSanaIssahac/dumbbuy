@@ -67,11 +67,14 @@ with a `NEXT_PUBLIC_` prefix.
 ### Screenshots
 Add these screenshots before submitting the project documentation:
 
-- `<img width="1010" height="885" alt="image" src="https://github.com/user-attachments/assets/e3bf99cb-8f1e-42ac-b5b0-5a1b1ab39759" />
-`: The purchase form with balance, currency, item, and reason fields.
+- <img width="1010" height="893" alt="image" src="https://github.com/user-attachments/assets/837adf47-1ad8-47bd-95e0-4ce4a1001c77" />
+: The purchase form with balance, currency, item, and reason fields.
 
-- `screenshot-too-useful.png`: The rejection result for a sensible purchase.
-- `screenshot-useless-enough.png`: The price, uselessness score, and affordability result.
+- <img width="1010" height="872" alt="image" src="https://github.com/user-attachments/assets/360695bc-ec1b-40cf-93b5-1e7f876886b5" />
+: The rejection result for a sensible purchase.
+
+- <img width="1008" height="883" alt="image" src="https://github.com/user-attachments/assets/94699ab3-46e9-4ba0-8bfd-a06c1c2f1e28" />
+: The price, uselessness score, and affordability result.
 
 ### Workflow Diagram
 ```mermaid
